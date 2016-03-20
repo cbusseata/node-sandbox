@@ -1,0 +1,30 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "Playing with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Busse",
+  "license": "MIT",
+  "dependencies": {
+    "app-root-path": "^1.0.0",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.0",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.1",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mocha": "^2.4.5",
+    "mongoose": "^4.4.6",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.0",
+    "passport-google-oauth": "^1.0.0",
+    "passport-local": "^1.0.0",
+    "passport-twitter": "^1.0.4",
+    "path": "^0.12.7",
+    "should": "^8.2.2"
+  }
+}
